@@ -181,18 +181,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Marcus Rodriguez** - Full-Stack Developer
 - **Emily Zhang** - Mobile Developer
 
-## 📞 Contact
-
-- **Email**: dexterzahmad@gmail.com
-- **Phone**: +62 897319024
-- **Location**: South Tangerang, Pamulang
-- **Business Hours**: 
-  - Monday - Friday: 9:00 AM - 6:00 PM PST
-  - Saturday: 10:00 AM - 4:00 PM PST
-  - Sunday: Closed
-
 ---
 
 **© 2025 AHMADSP. All rights reserved.**
+
 
 Built with ❤️ using React and Vite
