@@ -32,7 +32,7 @@ const Hero = () => {
             
             <p className="text-xl text-blue-100 mb-8 leading-relaxed">
               We create stunning, high-performance websites and applications that drive results. 
-              From concept to launch, we're your trusted Bay Area development partner.
+              From concept to launch, we're your trusted South Tangerang Area development partner.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mb-12">
